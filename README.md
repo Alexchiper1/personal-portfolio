@@ -7,9 +7,9 @@ This is my personal software development portfolio built to showcase my projects
 
 ## Tech Stack
 - React + Vite
-- Tailwind CSS
-- JavaScript (ES6+)
-- Responsive Design
+- Python
+- Java
+- JavaScript 
 
 ## Featured Projects
 - SiteSync – MERN team project
