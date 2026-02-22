@@ -84,13 +84,13 @@ export default function App() {
       photoUrl: "/profile.jpg", // put in /public
 
       highlights: [
-        "Software Developer Intern @ NomadÉire",
+        "Software Engineer Intern @ NomadÉire",
         "Web Admin & Technical Support @ Vitalie Maintenance",
       ],
 
       experience: [
         {
-          title: "Software Developer Intern",
+          title: "Software Engineer Intern",
           org: "NomadÉire / Nomad Hub",
           dates: "Current",
           bullets: [
@@ -294,7 +294,7 @@ export default function App() {
               <Card>
                 <p className="text-sm font-semibold text-white">Current</p>
                 <p className="mt-2 text-white/75">
-                  Software Developer Intern @ NomadÉire
+                  Software Engineer Intern @ NomadÉire
                 </p>
               </Card>
               <Card>
